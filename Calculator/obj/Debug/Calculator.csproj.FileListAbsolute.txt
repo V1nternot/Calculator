@@ -1,0 +1,7 @@
+c:\users\vinter\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\vinter\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+c:\users\vinter\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\vinter\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\vinter\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\vinter\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\vinter\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
